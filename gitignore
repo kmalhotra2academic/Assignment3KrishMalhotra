@@ -1,0 +1,10 @@
+# Windows
+Thumbs.db
+
+# Python
+*.pyc
+*.pyo
+_pycache_/
+
+# Visual Studio Code
+.vscode/
